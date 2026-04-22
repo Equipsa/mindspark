@@ -200,8 +200,7 @@ DEFAULT_QUOTES = [
     "La discipline est le pont entre les objectifs et les accomplissements.",
     "Le plus grand risque est de ne prendre aucun risque.",
     "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès.",
-    
-    
+    "Votre avenir est créé par ce que vous faites aujourd'hui, pas demain.",
 ]
 
 
