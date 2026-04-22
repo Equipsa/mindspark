@@ -199,7 +199,9 @@ DEFAULT_QUOTES = [
     "Ne jamais abandonner, même quand le chemin semble difficile.",
     "La discipline est le pont entre les objectifs et les accomplissements.",
     "Le plus grand risque est de ne prendre aucun risque.",
-    "La seule limite à notre épanouissement de demain sera nos doutes d'aujourd'hui.",
+    "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès.",
+    "La motivation vous fait démarrer, mais c'est l'habitude qui vous fait continuer.",
+    
 ]
 
 
