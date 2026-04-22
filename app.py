@@ -197,7 +197,6 @@ DEFAULT_QUOTES = [
     "Chaque jour est une nouvelle chance de devenir meilleur.",
     "Ne jamais abandonner, même quand le chemin semble difficile.",
     "La discipline est le pont entre les objectifs et les accomplissements.",
-    "Le plus grand risque est de ne prendre aucun risque.",
 ]
 
 
