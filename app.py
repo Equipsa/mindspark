@@ -194,7 +194,6 @@ st.markdown("""
 # DONNÉES INITIALES
 # ============================================================
 DEFAULT_QUOTES = [
-    "Le succès appartient à ceux qui persévèrent malgré les obstacles.",
     "Chaque jour est une nouvelle chance de devenir meilleur.",
     "Ne jamais abandonner, même quand le chemin semble difficile.",
     "La discipline est le pont entre les objectifs et les accomplissements.",
